@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "seed",
+    "fairy",
+    "purple",
+    "grass",
+    "packet"
+  ],
+  "code": "xable.magic.fairy.grass.malevolent.seed",
+  "icon": "mods/Xable's Magic/FairyGrass/MalevolentFairyGrassSeedPacket.qb",
+  "inHand": "mods/Xable's Magic/FairyGrass/MalevolentFairyGrassSeedPacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "interactVerb": "controlHint.verb.Plant",
+  "kind": "staxel.item.TileReplacer",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 100,
+    "value": 100
+  },
+  "replacerItem": {
+    "notificationTile": "staxel.tile.dirt.Dirt",
+    "tiles": [
+      {
+        "applyColouration": true,
+        "replaceWithTile": "xable.magic.fairy.grass.malevolent",
+        "toReplaceTile": "staxel.tile.dirt.Dirt"
+      },
+      {
+        "applyColouration": true,
+        "replaceWithTile": "xable.magic.fairy.grass.malevolent",
+        "toReplaceTile": "staxel.tile.dirt.Dirt.tilled"
+      }
+    ]
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "useBoxCollider": true
+}

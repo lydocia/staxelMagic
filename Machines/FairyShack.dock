@@ -1,0 +1,82 @@
+{
+  "code": "xable.magic.fairy.shack.dock",
+  "craftingKeyword": "Shack",
+  "removeReagentsOnCraftStart": false,
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.8,
+    "z": 0.0
+  },
+  "resultSite": "fairyOut",
+  "effectSite": "fairyIn",
+  "sites": [
+    {
+      "allowStacks": true,
+      "siteName": "fairyIn",
+      "location": {
+        "x": -0.4,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "craftSite": true
+    },
+    {
+      "allowStacks": true,
+      "siteName": "fairyOut",
+      "disallowManualDocking": true,
+      "location": {
+        "x": 0.6,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "XableFairy",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem",
+      "sites": [
+        "fairyIn"
+      ]
+    },
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      "effectTrigger": "staxel.effect.DockItem",
+      "sites": [
+        "fairyOut"
+      ]
+    }
+  ]
+}

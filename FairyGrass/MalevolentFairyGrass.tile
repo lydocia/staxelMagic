@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tile/Shovelable.config",
+  "canGrowFlowers": true,
+  "categories": [
+    "purple",
+    "dirt",
+    "grass",
+    "block",
+    "fairy"
+  ],
+  "code": "xable.magic.fairy.grass.malevolent",
+  "damageSoundGroup": "staxel.sounds.damage.Grass",
+  "palette": "staxel/tile/grass/grass.colorcorrection",
+  "placeSoundGroup": "staxel.sounds.place.Grass",
+  "pricing": {
+    "buyable": true,
+    "sellPrice": 1,
+    "value": 2
+  },
+  "searchable": true,
+  "smoothRecolorationOnPlace": true,
+  "stepSoundGroup": "staxel.sounds.GrassFootSteps",
+  "tileStateKind": "staxel.tileState.Dirt",
+  "voxels": "mods/Xable's Magic/FairyGrass/MalevolentFairyGrass.qb"
+}

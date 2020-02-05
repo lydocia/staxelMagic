@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "dockDefinition": "xable.magic.fairy.shack.dock",
+  "attachToBelow": true,
+  "categories": [
+    "seeds",
+    "furniture",
+    "brown",
+    "black",
+    "craftingStation",
+    "tool",
+    "fairy"
+  ],
+  "code": "xable.magic.fairy.shack",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "descriptionImage": "staxel/ui/image/CraftingIcons/ReapIcon.png",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Xable's Magic/Machines/FairyShack.qb"
+}

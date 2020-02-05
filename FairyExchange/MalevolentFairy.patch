@@ -1,0 +1,9 @@
+{
+    "file": "staxel/gatherables/catchables/festival/MalevolentFairy.item",
+    "priority": 2,
+    "patch" : {
+		"categories": [
+			"XableFairy"
+		],
+	}
+}

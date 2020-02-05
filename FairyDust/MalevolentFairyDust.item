@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "magic",
+    "fairy"
+  ],
+  "code": "xable.magic.fairy.malevolent.dust",
+  "icon": "mods/Xable's Magic/FairyDust/MalevolentFairyDust.qb",
+  "inHand": "mods/Xable's Magic/FairyDust/MalevolentFairyDust.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 3.14,
+    "y": 0.0,
+    "z": 1.56
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": false,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 400,
+    "value": 400
+  },
+  "searchable": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

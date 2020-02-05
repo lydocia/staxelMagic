@@ -1,0 +1,17 @@
+[b]Description[/b]
+
+Fairy Magic based on the use of Fairy Dust, that can be collected from Fairies.
+But watch out, unhappy Fairies will drop Malevolent Fairy Dust, and who knows what happens if you sprinkle that around.
+
+A stay in the Fairy Hotel will make any Fairy happier.
+A Malevolent Fairy will calm down and turn into a regular Fairy, while a regular Fairy will be so relaxed, they might drop some Fairy Dust before it flies off.
+
+The broken down Fairy Shack doesn’t look that comfortable. Putting a Fairy in here will surely make it angry, and it will turn into a Malevolent Fairy for sure! But Malevolent Fairies love this place, so much that they’ll drop some Malevolent Fairy Dust before flying off.
+
+
+[b]Recipes[/b]
+
+Read the full documentation [url=https://www.lydocia.com/mods/staxel-mods/xables-magic/]here[/url]. 
+
+[b]Links[/b]
+[url=https://www.lydocia.com]website[/url] | [url=https://discord.gg/YPhAFKN]Discord[/url] | [url=https://www.patreon.com/lydocia]Patreon[/url]

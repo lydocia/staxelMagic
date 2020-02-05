@@ -1,0 +1,25 @@
+{
+  "name": "Make Malevolent Fairy Dust",
+  "code": "xable.magic.fairy.malevolent.dust.reaction",
+  "recipeStep": "Shack",
+  "moveResultsToSite": "fairyOut",
+  "anyTool": true,
+  "automated": true,
+  "automationDelay": 3,
+  "docks": [
+    "xable.magic.fairy.shack.dock"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.gatherable.festival.MalevolentFairy"
+    }
+  ],
+  "results": [
+    {
+      "code": "xable.magic.fairy.malevolent.dust"
+    }
+  ],
+  "duration": 8/* seconds*/,
+  "effect": "staxel.effect.crafting.SeedMaker"/*only valid with duration*/,
+  "effectTrigger": "staxel.effect.crafting.SeedMaker.result"
+}
